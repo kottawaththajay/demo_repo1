@@ -1,3 +1,3 @@
 # Demo
 
-Some Description 
+Description :  This is a first file created in GIT
